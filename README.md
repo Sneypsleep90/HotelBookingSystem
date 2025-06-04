@@ -95,29 +95,6 @@ cd BookingApp
 Для сброса данных удалите JSON-файлы и перезапустите приложение.
 
 
-
-Структура проекта
-BookingApp/
-├── Booking.cs              # Модель бронирования
-├── Hotel.cs                # Модель отеля
-├── Room.cs                 # Модель номера
-├── MainForm.cs             # Главная форма (UI и логика)
-├── MainForm.Designer.cs    # Дизайн главной формы
-├── AddBookingForm.cs       # Форма добавления бронирования
-├── AddBookingForm.Designer.cs
-├── AddHotelForm.cs         # Форма добавления отеля
-├── AddHotelForm.Designer.cs
-├── AddRoomForm.cs          # Форма добавления номера
-├── AddRoomForm.Designer.cs
-├── DeleteHotelForm.cs      # Форма удаления отеля
-├── DeleteHotelForm.Designer.cs
-├── Program.cs              # Точка входа
-├── BookingApp.csproj       # Файл проекта
-├── README.md               # Документация
-├── bin/                    # Скомпилированные файлы
-└── obj/                    # Временные файлы сборки
-
-
 Разработка
 
 Язык: C# 10.
