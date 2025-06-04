@@ -1,0 +1,12 @@
+[
+  {
+    "Id": 1,
+    "HotelId": 2,
+    "RoomNumber": "101"
+  },
+  {
+    "Id": 2,
+    "HotelId": 1,
+    "RoomNumber": "101"
+  }
+]

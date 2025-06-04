@@ -1,0 +1,14 @@
+C:\Users\Magam\RiderProjects\BookingHotelApp\BookingHotelApp\obj\Debug\net9.0-windows\BookingHotelApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magam\RiderProjects\BookingHotelApp\BookingHotelApp\obj\Debug\net9.0-windows\BookingHotelApp.AssemblyInfoInputs.cache
+C:\Users\Magam\RiderProjects\BookingHotelApp\BookingHotelApp\obj\Debug\net9.0-windows\BookingHotelApp.AssemblyInfo.cs
+C:\Users\Magam\RiderProjects\BookingHotelApp\BookingHotelApp\obj\Debug\net9.0-windows\BookingHotelApp.csproj.CoreCompileInputs.cache
+C:\Users\Magam\RiderProjects\BookingHotelApp\BookingHotelApp\bin\Debug\net9.0-windows\BookingHotelApp.exe
+C:\Users\Magam\RiderProjects\BookingHotelApp\BookingHotelApp\bin\Debug\net9.0-windows\BookingHotelApp.deps.json
+C:\Users\Magam\RiderProjects\BookingHotelApp\BookingHotelApp\bin\Debug\net9.0-windows\BookingHotelApp.runtimeconfig.json
+C:\Users\Magam\RiderProjects\BookingHotelApp\BookingHotelApp\bin\Debug\net9.0-windows\BookingHotelApp.dll
+C:\Users\Magam\RiderProjects\BookingHotelApp\BookingHotelApp\bin\Debug\net9.0-windows\BookingHotelApp.pdb
+C:\Users\Magam\RiderProjects\BookingHotelApp\BookingHotelApp\obj\Debug\net9.0-windows\BookingHotelApp.dll
+C:\Users\Magam\RiderProjects\BookingHotelApp\BookingHotelApp\obj\Debug\net9.0-windows\refint\BookingHotelApp.dll
+C:\Users\Magam\RiderProjects\BookingHotelApp\BookingHotelApp\obj\Debug\net9.0-windows\BookingHotelApp.pdb
+C:\Users\Magam\RiderProjects\BookingHotelApp\BookingHotelApp\obj\Debug\net9.0-windows\BookingHotelApp.genruntimeconfig.cache
+C:\Users\Magam\RiderProjects\BookingHotelApp\BookingHotelApp\obj\Debug\net9.0-windows\ref\BookingHotelApp.dll
