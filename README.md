@@ -117,44 +117,6 @@ BookingApp/
 ├── bin/                    # Скомпилированные файлы
 └── obj/                    # Временные файлы сборки
 
-Пример JSON-файлов
-hotels.json:
-[
-    {
-        "Id": 1,
-        "Name": "Grand Hotel"
-    },
-    {
-        "Id": 2,
-        "Name": "Sunset Resort"
-    }
-]
-
-rooms.json:
-[
-    {
-        "Id": 1,
-        "HotelId": 1,
-        "RoomNumber": "101"
-    },
-    {
-        "Id": 6,
-        "HotelId": 2,
-        "RoomNumber": "201"
-    }
-]
-
-bookings.json:
-[
-    {
-        "Id": 1,
-        "ClientName": "Иван Иванов",
-        "Date": "2025-06-04T00:00:00",
-        "Status": "Активна",
-        "HotelId": 1,
-        "RoomId": 1
-    }
-]
 
 Разработка
 
