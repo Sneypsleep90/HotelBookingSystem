@@ -1,6 +1,3 @@
-Вот отформатированный и структурированный `README.md` для проекта **BookingApp**:
-
----
 
 ````markdown
 # BookingApp
