@@ -55,22 +55,22 @@
 ## 🚀 Установка и запуск
 
 1. **Клонируйте репозиторий:**
-   ```bash
+   ``bash
    git clone https://github.com/Sneypsleep90/HotelBookingSystem.git
    cd HotelBookingSystem
-````
+   
 
-2. **Откройте проект:**
+3. **Откройте проект:**
 
    * В *Visual Studio* откройте `BookingApp.sln`.
    * В *Rider* откройте `BookingApp.csproj`.
 
-3. **Соберите проект:**
+4. **Соберите проект:**
 
    * В Visual Studio: `Build > Rebuild Solution` или `F6`.
    * В Rider: `Build > Rebuild Solution` или `Ctrl+F9`.
 
-4. **Запустите приложение:**
+5. **Запустите приложение:**
 
    * Нажмите `F5` или запустите `bin/Debug/net6.0-windows/BookingApp.exe`.
 
@@ -117,21 +117,6 @@
 * Сериализация: **System.Text.Json**
 * Рекомендуемая IDE: **JetBrains Rider** / **Visual Studio 2022**
 
-### Работа с Git
-
-```bash
-# Создать ветку
-git checkout -b feature/your-feature
-
-# После изменений
-git add .
-git commit -m "Добавлена новая функциональность"
-
-# Отправить на GitHub
-git push origin feature/your-feature
-```
-
----
 
 ## ⚠️ Ограничения
 
